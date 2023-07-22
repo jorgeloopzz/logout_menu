@@ -9,7 +9,7 @@ If you have some questions you can look for tutorials for Tkinter.
     <h2> Requirements </h2>
 	- Python => 3.10 <br>
 	- Tk <br>
-	- BetterLockScreen (See the <a href="https://github.com/betterlockscreen/betterlockscreen#installation"> installation </a> and <a href="https://github.com/betterlockscreen/betterlockscreen#usage"> usage </a>.
+	- BetterLockScreen (See the <a href="https://github.com/betterlockscreen/betterlockscreen#installation"> installation </a> and <a href="https://github.com/betterlockscreen/betterlockscreen#usage"> usage</a>)
   </div>
 
 </div>
